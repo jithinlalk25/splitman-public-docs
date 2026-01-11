@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+<style>
+  header, footer, .site-header, .site-footer {
+    display: none !important;
+  }
+</style>
+
 # Privacy Policy
 
 Last updated: January 11, 2026
