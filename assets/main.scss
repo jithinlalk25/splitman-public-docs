@@ -1,0 +1,13 @@
+---
+---
+
+@import "minima";
+
+header.site-header,
+footer.site-footer {
+  display: none !important;
+}
+
+.wrapper {
+  max-width: 800px;
+}
