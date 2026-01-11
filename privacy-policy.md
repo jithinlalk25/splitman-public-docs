@@ -14,7 +14,7 @@ Last updated: January 11, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 ## Interpretation and Definitions
 
@@ -34,7 +34,7 @@ For the purposes of this Privacy Policy:
 
 - **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Splitman.
 
-- **Country** refers to: Kerala, India
+- **Country** refers to: India
 
 - **Device** means any device that can access the Service such as a computer, a cell phone or a digital tablet.
 
@@ -58,6 +58,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 - First name and last name
 - Phone number
+- Profile image (optional)
 - Usage Data
 
 #### Usage Data
@@ -72,13 +73,13 @@ We may also collect information that Your browser sends whenever You visit Our S
 
 #### Information Collected while Using the Application
 
-While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+While using Our Application, in order to provide features of Our Application, We require access to:
 
 - Information from your Device's phone book (contacts list)
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
-You can enable or disable access to this information at any time, through Your Device settings.
+Without granting contacts permission, You will not be able to use the core functionality of the Application.
 
 ### Use of Your Personal Data
 
