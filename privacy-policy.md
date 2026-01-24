@@ -10,7 +10,7 @@ layout: default
 
 # Privacy Policy
 
-Last updated: January 11, 2026
+Last updated: January 24, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -131,11 +131,9 @@ The Company will take all steps reasonably necessary to ensure that Your data is
 
 ### Delete Your Personal Data
 
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+You have the right to delete the Personal Data that We have collected about You.
 
-Our Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+Our Service provides the ability to delete your account and associated data from within the app. Open **Account Settings** and select **Delete Account** to permanently remove your account and personal data.
 
 Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
